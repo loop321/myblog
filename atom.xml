@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>熟睡中</title>
+  <subtitle>精诚所至，金石为开</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://aaree.cn/"/>
+  <updated>2017-02-21T06:12:54.102Z</updated>
+  <id>https://aaree.cn/</id>
+  
+  <author>
+    <name>aaree</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>筑巢于春</title>
+    <link href="https://aaree.cn/2017/02/18/2017-start/"/>
+    <id>https://aaree.cn/2017/02/18/2017-start/</id>
+    <published>2017-02-18T02:19:55.000Z</published>
+    <updated>2017-02-21T06:12:54.102Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/2017/02/18/2017-start/01.jpg" alt="图1"></p>
+<h3 id="萌动尝试，笃定信念"><a href="#萌动尝试，笃定信念" class="headerlink" title="萌动尝试，笃定信念"></a>萌动尝试，笃定信念</h3><blockquote>
+<p>在大学时接触到网络，断断续续的注册了百度、163、51等的博客，好奇过后就扔在一边。工作后尝试了cms、论坛、空间等入门的技术，刚毕业的前几年东奔西跑也没能停下来，静下心写写自己的感想。如今已毕业近10年，其中酸甜苦辣也都随时光流逝沉淀与心底。</p>
+</blockquote>
+<hr>
+<blockquote>
+<p>心中总有一个念头，希望充实每一天，在某天回望过去，不会因虚度而悔恨。年后准备了域名空间，做一个简单的小站，记下工作和生活的点点滴滴。</p>
+</blockquote>
+<h3 id="搭建过程"><a href="#搭建过程" class="headerlink" title="搭建过程"></a>搭建过程</h3><h4 id="准备"><a href="#准备" class="headerlink" title="准备"></a>准备</h4><ul>
+<li>域名(<a href="https://wanwang.aliyun.com" target="_blank" rel="external">万网</a>|注册一个自己的域名)</li>
+<li>空间(云服务、vps|也可以用githup，不用自己的空间)</li>
+<li><a href="https://githup.com/loop321" target="_blank" rel="external">githup帐号</a>(注册githup)</li>
+<li><a href="https://hexo.io" target="_blank" rel="external">hexo</a>(站点系统)</li>
+<li><a href="http://nginx.org" target="_blank" rel="external">nginx</a>(自己空间可以配合nginx使用)</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/2017/02/18/2017-start/01.jpg&quot; alt=&quot;图1&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;萌动尝试，笃定信念&quot;&gt;&lt;a href=&quot;#萌动尝试，笃定信念&quot; class=&quot;headerlink&quot; title=&quot;萌动尝试，笃定信念&quot;&gt;&lt;/a&gt;萌
+    
+    </summary>
+    
+    
+      <category term="随笔" scheme="https://aaree.cn/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+      <category term="心情" scheme="https://aaree.cn/tags/%E5%BF%83%E6%83%85/"/>
+    
+  </entry>
+  
+</feed>
